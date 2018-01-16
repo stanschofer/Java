@@ -1,8 +1,0 @@
-@CHARSET "UTF-8";
-body{ background-color: gray;} 
-p { color: blue; } 
-TD{ background-color: tan;font-family:"Arial","Times New Roman",Georgia,Serif;}
-td{ font-family:"Arial","Times New Roman",Georgia,Serif;}
-TH{ background-color: blue;color: white;font-family:"Arial","Times New Roman",Georgia,Serif;}
-.TDalt{ background-color: white;font-family:"Arial","Times New Roman",Georgia,Serif;}
-.TDerrorMsg{ background-color: white;color: red,font-family:"Arial","Times New Roman"
